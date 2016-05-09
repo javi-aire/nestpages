@@ -1,0 +1,33 @@
+{
+  "name": "nest",
+  "version": "1.0.0",
+  "description": "Enhanced Twitter profile search",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwill2014/nest.git"
+  },
+  "keywords": [
+    "twitter",
+    "api",
+    "profile",
+    "search",
+    "nest",
+    "data",
+    "visualization"
+  ],
+  "author": "Javier Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jwill2014/nest/issues"
+  },
+  "homepage": "https://github.com/jwill2014/nest#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "nodemon": "^1.9.2"
+  }
+}
